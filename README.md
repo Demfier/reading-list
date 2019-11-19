@@ -1,10 +1,9 @@
 # reading-list
 
 ## Read
----
+
 
 ## To Read
----
 * [Tutorial: Deep Latent-Variable Models for NLP](https://github.com/harvardnlp/DeepLatentNLP/blob/master/tutorial_deep_latent.pdf)
 * [Latent Normalizing Flows for Discrete Sequences](https://arxiv.org/pdf/1901.10548.pdf)
 * [Multi-turn Dialogue Response Generation in an Adversarial Learning Framework](https://www.aclweb.org/anthology/W19-4114.pdf)
@@ -19,5 +18,4 @@
 * [Wilkar Aziz teachings](http://wilkeraziz.github.io/teaching.html)
 
 ## Code
----
 * [Deep Generative Models for NLP (proababll lab)](https://github.com/probabll/dgm4nlp/)
