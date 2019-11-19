@@ -17,3 +17,7 @@
 * [Landscape of Deep Generative Models](http://wilkeraziz.github.io/pages/landscape)
 * [ML notes and papers](https://github.com/wilkeraziz/notes)
 * [Wilkar Aziz teachings](http://wilkeraziz.github.io/teaching.html)
+
+## Code
+---
+* [Deep Generative Models for NLP (proababll lab)](https://github.com/probabll/dgm4nlp/)
