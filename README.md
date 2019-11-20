@@ -16,6 +16,8 @@
 * [Landscape of Deep Generative Models](http://wilkeraziz.github.io/pages/landscape)
 * [ML notes and papers](https://github.com/wilkeraziz/notes)
 * [Wilkar Aziz teachings](http://wilkeraziz.github.io/teaching.html)
+* [Understanding the Effect of Textual Adversaries in Multimodal Machine Translation](https://www.aclweb.org/anthology/D19-6406.pdf)
+* [Conditionally Learn to Pay Attention for Sequential Visual Task](https://arxiv.org/pdf/1911.04365.pdf)
 
 ## Code
 * [Deep Generative Models for NLP (proababll lab)](https://github.com/probabll/dgm4nlp/)
